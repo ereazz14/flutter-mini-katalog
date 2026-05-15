@@ -15,4 +15,17 @@ Projeyi kendi yerel ortamınızda çalıştırmak için aşağıdaki adımları 
 
 1. Projeyi bilgisayarınıza klonlayın:
    ```bash
-   git clone [BURAYA_GITHUB_REPO_LINKINI_YAPISTIRACAKSIN]
+   git clone [https://github.com/ereazz14/flutter-mini-katalog]
+
+2. Proje dizinine girin:
+    ```bash
+    cd mini_katalog
+
+3. Gerekli paketleri indirin:
+    ```bash
+    flutter pub get
+
+4. Emülatörü veya bağlı fiziksel cihazınızı seçerek uygulamayı başlatın:
+    ```bash
+    flutter run
+
