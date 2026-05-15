@@ -29,3 +29,7 @@ Projeyi kendi yerel ortamınızda çalıştırmak için aşağıdaki adımları 
     ```bash
     flutter run
 
+EKRAN GÖRÜNTÜLERİ 
+<img width="1080" height="2400" alt="cardscreen" src="https://github.com/user-attachments/assets/e04c67a8-ceeb-4bda-99ce-fee0d765d809" />
+<img width="1080" height="2400" alt="detailscreen" src="https://github.com/user-attachments/assets/5ccf409f-a8be-4d36-b104-f1a890546e63" />
+<img width="1080" height="2400" alt="mainscreen" src="https://github.com/user-attachments/assets/cd94dbb2-47cb-4894-b6cd-cb90d5279de0" />
